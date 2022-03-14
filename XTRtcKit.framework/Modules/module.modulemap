@@ -1,0 +1,6 @@
+framework module XTRtcKit {
+  umbrella header "XTRtcKit.h"
+
+  export *
+  module * { export * }
+}
